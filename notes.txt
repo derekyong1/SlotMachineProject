@@ -1,3 +1,10 @@
-isdigit() function is used to determine if a string is a valid number or not.
-ex: 9 true
-    -9 false
+1. isdigit() function is used to determine if a string is a valid number or not.
+    ex: 9 true
+        -9 false
+
+
+2. All cap variables are considered to the a global constant in python
+
+3. If you want to check if a variable is in between two values in python, you can 
+    write it like this: 
+         if 1 <= lines <= MAX_LINES
