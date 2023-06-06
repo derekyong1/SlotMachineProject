@@ -1,0 +1,3 @@
+isdigit() function is used to determine if a string is a valid number or not.
+ex: 9 true
+    -9 false
